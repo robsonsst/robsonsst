@@ -12,7 +12,7 @@
 ## Contate-me em:
 
 <div>
-	 <a href="https://www.linkedin.com/public-profile/settings?   trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3Bs%2BK4BaAQT8atdZ5IUdznQw%3D%3D" target="_blank">
+	 <a href="www.linkedin.com/in/robson-santos-santana-958557204" target="_blank">
 	<img align="center" alt="Robson-linkedin" height="35" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%"
 	</a>
 	<a href="mailto:robsonsanttos_18@hotmail.com" target="_blank">
