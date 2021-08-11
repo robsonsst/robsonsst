@@ -12,7 +12,7 @@
 ## Contate-me em:
 
 <div>
-	 <a href="www.linkedin.com/in/robson-santos-santana-958557204" target="_blank">
+	 <a href="https://www.linkedin.com/in/robson-santos-santana-958557204/" target="_blank">
 	<img align="center" alt="Robson-linkedin" height="35" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%"
 	</a>
 	<a href="mailto:robsonsanttos_18@hotmail.com" target="_blank">
