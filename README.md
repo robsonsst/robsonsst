@@ -26,7 +26,7 @@
   </a>
 </div>
     
- ## Habilidades:
+ ## Interesses:
 
 <div style="dysplay: inline_block"><br>
 	<img align="center" alt="Robson-HTML" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
