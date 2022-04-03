@@ -1,7 +1,7 @@
 ### Olá! Seja bem vindo. Meu nome é Robson 😄
 
 - 💻 Sou estudante de Sistemas de Informação
-- 📚 Estou iniciando meus estudos em Flutter, HTML, CSS e JavaScript
+- 📚 Estou iniciando meus estudos em React Native, HTML, CSS e JavaScript
 
 <div>
 	<a href="https://github.com/robsonsst">
