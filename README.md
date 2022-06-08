@@ -32,4 +32,5 @@
 	<img align="center" alt="Robson-HTML" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 	<img align="center" alt="Robson-CSS" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 	<img align="center" alt="Robson-Js" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+	<img align="center" alt="Robson-React" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
