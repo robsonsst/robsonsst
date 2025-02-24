@@ -1,7 +1,7 @@
 ### Olá! Seja bem vindo. Meu nome é Robson 😄
 
 - 💻 Sou graduado em Sistemas de Informação
-- 📚 Atualmente sou professor e estou estudando sobre React Native e Typescript
+- 📚 Atualmente sou professor e estou estudando sobre React, React Native Native e Typescript
 
 <div>
 	<a href="https://github.com/robsonsst">
