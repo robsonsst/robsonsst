@@ -12,16 +12,16 @@
 ## Contate-me em:
 
 <div>
-	 <a href="https://www.linkedin.com/in/robson-santos-santana-958557204/" target="_blank">
+	 <a href="www.linkedin.com/in/robsonsst25" target="_blank">
 	<img align="center" alt="Robson-linkedin" height="35" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%"
 	</a>
 	<a href="mailto:robsonsanttos_18@hotmail.com" target="_blank">
 	<img align="center" alt="Robson-email" height="35" width="120" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width:100%"
 	</a>
-	<a href="mailto:robsonsanttos9999@gmail.com" target="_blank">
+	<a href="mailto:robsonsantana.contato@gmail.com" target="_blank">
 	<img align="center" alt="Robson-gmail" height="35" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%"
 	</a>
-	<a href="https://www.instagram.com/binhosst/" target="_blank">
+	<a href="https://www.instagram.com/robsonssr/" target="_blank">
 	<img align="center" alt="Robson-instagram" height="35" width="85" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"           style="max-width:100%"
   </a>
 </div>
